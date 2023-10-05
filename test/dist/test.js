@@ -31,8 +31,8 @@ var gamma1pm1 = require( './../../dist' );
 
 // FIXTURES //
 
-var smallPositive = require( './../..xtures/cpp/small_positive.json' );
-var smallNegative = require( './../..xtures/cpp/small_negative.json' );
+var smallPositive = require( './../fixtures/cpp/small_positive.json' );
+var smallNegative = require( './../fixtures/cpp/small_negative.json' );
 
 
 // TESTS //
