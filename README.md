@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@deno/mod.js';
+import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@v0.2.1-deno/mod.js';
 ```
 
 #### gamma1pm1( x )
@@ -75,7 +75,7 @@ v = gamma1pm1( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@deno/mod.js';
+import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@v0.2.1-deno/mod.js';
 
 var x;
 var i;
