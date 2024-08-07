@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-07)
+
+<section class="features">
+
+### Features
+
+-   [`458697c`](https://github.com/stdlib-js/stdlib/commit/458697cf4aae5b6bcd2e0d9e19181d2ac3b70fe1) - add C implementation for `math/base/special/gamma1pm1`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`458697c`](https://github.com/stdlib-js/stdlib/commit/458697cf4aae5b6bcd2e0d9e19181d2ac3b70fe1) - **feat:** add C implementation for `math/base/special/gamma1pm1` _(by Gunj Joshi)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)

@@ -1,7 +1,7 @@
-/*
+/**
 * @license Apache-2.0
 *
-* Copyright (c) 2019 The Stdlib Authors.
+* Copyright (c) 2024 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,37 +16,8 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+#include "stdlib/math/base/special/gamma1pm1.h"
+#include "stdlib/math/base/napi/unary.h"
 
-/**
-* Computes `gamma(x+1) - 1`.
-*
-* @param x - input value
-* @returns function value
-*
-* @example
-* var v = gamma1pm1( 0.2 );
-* // returns ~-0.082
-*
-* @example
-* var v = gamma1pm1( -9.2 );
-* // returns ~-1.0
-*
-* @example
-* var v = gamma1pm1( 0.0 );
-* // returns 0.0
-*
-* @example
-* var v = gamma1pm1( -3.0 );
-* // returns NaN
-*
-* @example
-* var v = gamma1pm1( NaN );
-* // returns NaN
-*/
-declare function gamma1pm1( x: number ): number;
-
-
-// EXPORTS //
-
-export = gamma1pm1;
+// cppcheck-suppress shadowFunction
+STDLIB_MATH_BASE_NAPI_MODULE_D_D( stdlib_base_gamma1pm1 )
