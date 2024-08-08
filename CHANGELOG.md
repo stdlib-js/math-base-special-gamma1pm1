@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-07)
+## Unreleased (2024-08-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2837436`](https://github.com/stdlib-js/stdlib/commit/283743652091fff85f01746b9edf8da3d5286cf5) - **docs:** update license header in `math/base/special/gamma1pm1` [(#2764)](https://github.com/stdlib-js/stdlib/pull/2764) _(by Gunj Joshi)_
 -   [`458697c`](https://github.com/stdlib-js/stdlib/commit/458697cf4aae5b6bcd2e0d9e19181d2ac3b70fe1) - **feat:** add C implementation for `math/base/special/gamma1pm1` _(by Gunj Joshi)_
 
 </details>
