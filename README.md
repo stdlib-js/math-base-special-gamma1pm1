@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@esm/index.mjs';
+import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@v0.3.1-esm/index.mjs';
 ```
 
 #### gamma1pm1( x )
@@ -81,7 +81,7 @@ v = gamma1pm1( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@esm/index.mjs';
+import gamma1pm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma1pm1@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
